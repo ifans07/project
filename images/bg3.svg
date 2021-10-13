@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1360px" height="768px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1360 768"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:2.08347}
+    .str1 {stroke:#248BCA;stroke-width:2.08347}
+    .fil0 {fill:none}
+    .fil1 {fill:#248BCA}
+   ]]>
+  </style>
+   <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="0.999213" y1="384" x2="1361" y2="384">
+   <stop offset="0" style="stop-opacity:0.85098; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0.301961; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id1)" y="-2" width="1362" height="772"/>
+   </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1" y1="963" x2="1427" y2= "963" />
+  <g id="_1876519713824">
+   <polygon class="fil0 str0" points="138,742 210,795 282,848 282,955 282,1062 210,1116 138,1169 66,1116 -6,1062 -6,955 -6,848 66,795 "/>
+   <polygon class="fil0 str0" points="426,786 498,839 570,892 570,999 570,1106 498,1160 426,1213 354,1160 282,1106 282,999 282,892 354,839 "/>
+   <polygon class="fil0 str0" points="714,749 786,803 858,856 858,963 858,1070 786,1123 714,1177 642,1123 570,1070 570,963 570,856 642,803 "/>
+   <polygon class="fil0 str0" points="1002,788 1074,842 1146,895 1146,1002 1146,1109 1074,1162 1002,1216 930,1162 858,1109 858,1002 858,895 930,842 "/>
+   <polygon class="fil0 str0" points="1291,737 1362,791 1434,844 1434,951 1434,1058 1362,1111 1291,1165 1219,1111 1147,1058 1147,951 1147,844 1219,791 "/>
+  </g>
+  <polygon class="fil1 str1" style="mask:url(#id0)" points="1361,-1 1,-1 1,499 35,473 107,420 179,473 251,527 251,614 251,614 251,691 251,767 248,769 251,769 251,678 251,571 323,517 395,464 467,517 539,571 539,646 539,646 539,722 539,769 539,769 539,748 539,748 539,641 539,534 611,481 683,427 755,481 827,534 827,620 827,620 827,696 827,769 827,769 827,680 827,573 899,520 971,467 1043,520 1115,573 1115,648 1115,648 1115,724 1115,769 1125,769 1116,764 1116,736 1116,736 1116,629 1116,522 1188,469 1260,416 1331,469 1361,491 "/>
+ </g>
+</svg>

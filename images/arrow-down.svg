@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1200px" height="927px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1200 927"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:0.757623}
+    .str1 {stroke:#428BCA;stroke-width:0.757623}
+    .fil0 {fill:none}
+    .fil1 {fill:#428BCA}
+   ]]>
+  </style>
+   <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1320.49" y1="1105.33" x2="-35.4339" y2="1081.92">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0" style="stop-opacity:-127.502; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:0.505882; stop-color:white"/>
+   <stop offset="0.0196078" style="stop-opacity:0.45098; stop-color:white"/>
+   <stop offset="0.360784" style="stop-opacity:0.45098; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id1)" x="-48" y="969" width="1380" height="248"/>
+   </mask>
+   <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="32.1874" y1="1142.38" x2="1228.59" y2="1142.38">
+   <stop offset="0" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="0" style="stop-opacity:-127.502; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:0.505882; stop-color:white"/>
+   <stop offset="0.0196078" style="stop-opacity:0.45098; stop-color:white"/>
+   <stop offset="0.360784" style="stop-opacity:0.45098; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id3)" x="32" y="998" width="1197" height="289"/>
+   </mask>
+   <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="1200.02" y1="462.83" x2="1.6733" y2="462.83">
+   <stop offset="0" style="stop-opacity:0.2; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0.701961; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id5)" x="1" y="-3" width="1199" height="932"/>
+   </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" style="mask:url(#id0)" points="642,1217 297,1094 -47,970 643,972 1332,974 987,1096 "/>
+  <polygon class="fil0 str0" style="mask:url(#id2)" points="1229,1011 1229,1286 32,1286 32,998 297,1094 642,1217 987,1096 "/>
+  <path class="fil1 str1" style="mask:url(#id4)" d="M1200 925l-1195 3 0 -3 1195 0zm-1196 -288l-2 -636 1195 -4 2 652 -240 85 -346 122 -344 -124 -265 -95z"/>
+ </g>
+</svg>

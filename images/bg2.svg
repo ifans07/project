@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1360px" height="768px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1360 768"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:2.08347}
+    .str1 {stroke:#248BCA;stroke-width:2.08347}
+    .fil0 {fill:none}
+    .fil2 {fill:#248BCA}
+    .fil1 {fill:#373435}
+   ]]>
+  </style>
+   <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="0.999213" y1="384" x2="1361" y2="384">
+   <stop offset="0" style="stop-opacity:0.85098; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0.301961; stop-color:white"/>
+  </linearGradient>
+    <rect style="fill:url(#id1)" y="-2" width="1362" height="772"/>
+   </mask>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="1" y1="963" x2="1427" y2= "963" />
+  <g id="_1876550202944">
+   <polygon class="fil0 str0" points="117,827 189,865 261,903 261,980 261,1056 189,1094 117,1133 45,1094 -27,1056 -27,980 -27,903 45,865 "/>
+   <polygon class="fil0 str0" points="405,858 477,896 549,935 549,1011 549,1088 477,1126 405,1164 333,1126 261,1088 261,1011 261,935 333,896 "/>
+   <polygon class="fil0 str0" points="693,832 765,870 837,909 837,985 837,1062 765,1100 693,1138 621,1100 549,1062 549,985 549,909 621,870 "/>
+   <polygon class="fil0 str0" points="981,860 1053,898 1125,937 1125,1013 1125,1090 1053,1128 981,1166 909,1128 837,1090 837,1013 837,937 909,898 "/>
+   <polygon class="fil0 str0" points="1270,824 1341,862 1413,900 1413,977 1413,1053 1341,1091 1270,1130 1198,1091 1126,1053 1126,977 1126,900 1198,862 "/>
+  </g>
+  <rect class="fil1 str0" x="-22" y="867" width="1360" height="770"/>
+  <polygon class="fil2 str1" style="mask:url(#id0)" points="1361,-1 1,-1 1,594 35,576 107,538 179,576 251,614 251,691 251,767 248,769 252,769 252,722 252,646 324,607 395,569 467,607 539,646 539,722 539,769 539,769 539,696 539,620 611,581 683,543 755,581 827,620 827,696 827,769 828,769 828,724 828,648 900,609 971,571 1043,609 1115,648 1115,724 1115,769 1125,769 1116,764 1116,688 1116,611 1188,573 1260,535 1332,573 1361,589 "/>
+ </g>
+</svg>
